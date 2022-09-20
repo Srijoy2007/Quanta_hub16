@@ -3,10 +3,8 @@ Quanta Hub 16 is  a 16 key Macro pad which can connect to upto 4 devices at  a t
 
 ### Repo Contents
 
-- `Documents` contains all documentation and images for the project.
 - `Firmware` contains both the source and precompiled binaries for Hub16.
 - `Hardware` contains the KiCad design files for the keyboard.
-- `josh-kicad-lib` is my personal KiCad parts library which contains many of the parts used.
 - `Mechanicals` contain the plate and case design for Hub16.
 - `Production` contains all the files required to produce the PCB. It also contains test scripts and jigs.
 - `Software` contains all the VIA config, along with template script to use Hub16 as a macropad with software on your computer.
