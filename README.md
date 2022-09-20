@@ -3,7 +3,7 @@ Quanta Hub 16 is  a 16 key Macro pad which can connect to upto 4 devices at  a t
 
 ### Repo Contents
 
-- `Firmware` contains both the source and precompiled binaries for Hub16.
+- `Firmware` contains both the source and precompiled binaries for Quantahub16.
 - `Hardware` contains the KiCad design files for the keyboard.
 - `Mechanicals` contain the plate and case design for Hub16.
 
@@ -20,4 +20,4 @@ Due to cost and space constraints, the hub has some limitations. The hub **is no
 - Designed to work with power hungry devices such as spinning hard drives.
 - Guaranteed to provide full USB 2.0 speeds and performance on all ports.
 
-Might you be able to charge your phone whilst copying files at full speed of a spinning hard drive over a long cable? Maybe. However Quantahub16 is a macropad first, USB hub second, so if you are looking for a high performance device I'd suggest picking up a dedicated USB hub and just using Hub16 as a macropad.
+Might you be able to charge your phone whilst copying files at full speed of a spinning hard drive over a long cable? Maybe. However Quantahub16 is a macropad first, USB hub second, so if you are looking for a high performance device I'd suggest picking up a dedicated USB hub and just using Qunatahub16 as a macropad.
