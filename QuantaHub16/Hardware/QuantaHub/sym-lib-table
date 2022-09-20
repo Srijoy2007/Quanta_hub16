@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Hub16-cache")(type "Legacy")(uri "C:/Users/Probook/OneDrive/Desktop/Hub16-master/Hub16-master/Hardware/1.0.1-hs/Hub16-cache.lib")(options "")(descr ""))
+  (lib (name "Hub16-rescue")(type "Legacy")(uri "C:/Users/Probook/OneDrive/Desktop/Hub16-master/Hub16-master/Hardware/1.0.1-hs/Hub16-rescue.lib")(options "")(descr ""))
+)
